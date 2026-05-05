@@ -1,1 +1,1 @@
-# DL-CIFAR10-Project
+# DL_Project_CIFAR10.ipynb
